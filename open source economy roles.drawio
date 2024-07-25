@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JUoP1eI45jwGAjejHte_-11" value="proposes features" style="edgeStyle=none;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B3B3B3;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="1" source="2c924340bb9dbf6c-2" target="2c924340bb9dbf6c-7">
+        <mxCell id="JUoP1eI45jwGAjejHte_-11" value="proposes features" style="edgeStyle=none;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#B3B3B3;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="1" source="2c924340bb9dbf6c-2" target="2c924340bb9dbf6c-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JUoP1eI45jwGAjejHte_-22" value="contributes" style="edgeStyle=none;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#B3B3B3;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="1" source="2c924340bb9dbf6c-2" target="JUoP1eI45jwGAjejHte_-1">
@@ -93,6 +93,12 @@
         </mxCell>
         <mxCell id="JUoP1eI45jwGAjejHte_-20" value="uses" style="edgeStyle=none;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.7;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B3B3B3;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=12;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="1" source="2c924340bb9dbf6c-52" target="2c924340bb9dbf6c-51">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JUoP1eI45jwGAjejHte_-25" value="Project" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JUoP1eI45jwGAjejHte_-26" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Platform extension&lt;/h1&gt;&lt;p&gt;New features in the platform can be suggested by the contributors or the core contributors (maintainers).&amp;nbsp; Features are typically assigned to working groups, and from working groups to individual contributors. Working group remains responsible for the delivery.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="420" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
